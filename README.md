@@ -1,49 +1,12 @@
-# VPet-Simulator
+# VPet-Simulator - dev branch
 
-虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
-
-![主图](README.assets/%E4%B8%BB%E5%9B%BE.png)
-
-获取虚拟桌宠模拟器 [OnSteam(免费)](https://store.steampowered.com/app/1920960/VPet) 或 通过[Nuget](https://www.nuget.org/packages/VPet-Simulator.Core)内置到你的WPF应用程序
-
-## 虚拟桌宠模拟器 详细介绍
-
-虚拟桌宠模拟器是一款桌宠软件,支持各种互动投喂等. 开源免费并且支持创意工坊.
-
-反正免费为啥不试试呢(
-
-该游戏为 [虚拟主播模拟器](https://store.steampowered.com/app/1352140/_/) 内置桌宠(教程)程序独立而来, 如果喜欢的话欢迎添加 [虚拟主播模拟器](https://store.steampowered.com/app/1352140/_/) 至愿望单
-
-### 超多的互动和动画
-
-多达 32(种) * 4(状态) * 3(类型) 种动画, *注:部分种类没有生病状态或循环等内容,实际动画数量会偏少*
-
-#### 一些动画例子:
-
-##### 摸头
-
-![ss0](README.assets/ss0.gif)
-
-##### 提起
-
-![ss4](README.assets/ss4.gif)![ss4](README.assets/ss8.gif)
-
-##### 爬墙
-
-![ss7](README.assets/ss7.gif)
-
-详情请参见 开源文档中的 [图像资源](https://github.com/LorisYounger/VPet#%E5%9B%BE%E5%83%8F%E8%B5%84%E6%BA%90).
-
-### 免费
-
-该游戏完全免费! 反正不要钱,试试不要紧(<br/>
-该游戏主要目的是宣传下 [虚拟主播模拟器](https://store.steampowered.com/app/1352140/_/), 游戏中Q版人物为虚拟主播模拟器的主人公.
+開發用分支，容易出bug，慎用
 
 ### 开源
 
 该游戏在github上开源, 欢迎提出自己的想法,创意或者参与开发!<br/>
 您还可以修改代码来制作自己专属的桌宠!(虽然说大部分内容都支持创意工坊,不需要修改代码)<br/>
-项目地址: https://github.com/LorisYounger/VPet
+原项目地址: https://github.com/LorisYounger/VPet
 
 ### 支持创意工坊
 
@@ -60,11 +23,6 @@
   * 添加新的动画逻辑/显示方案 (eg: l2d/spine 等)
   * 添加新功能 (闹钟/记事板等等)
   * 几乎无所不能, 示例例子参见 [VPet.Plugin.Demo](https://github.com/LorisYounger/VPet.Plugin.Demo)
-
-
-### 反馈&建议&联系我们
-
-如果有建议或者意见,可以在Steam商店评论/社区,Github Issue,虚拟主播模拟器贴吧,虚拟主播模拟器群(430081239)或者邮件联系我 [mailto:service@exlb.net](mailto:service@exlb.net)
 
 ## 软件结构
 
@@ -111,19 +69,7 @@
 
 ## 参与开发
 
-欢迎参与虚拟桌宠模拟器的开发! 为保证代码可维护度和游戏性,如果想要开发新的功能,请先[邮件联系](mailto:zoujin.dev@exlb.org)或发[Issues](https://github.com/LorisYounger/VPet/issues)我想要添加的功能/玩法, 以确保该功能/玩法适用于虚拟桌宠模拟器. 以免未来提交时因不合适被拒(而造成代码浪费)<br/>
-如果是修复错误或者BUG,无需联系我,修好后直接PR即可
-
-当想法通过后,您可以通过 [fork](https://github.com/LorisYounger/VPet/fork) 功能拷贝代码至自己的github以方便编写自己的代码, 编写完毕后通过[pull requests](https://github.com/LorisYounger/VPet/compare) 提交<br/>
-如果您想法没有被通过,也可以另起炉灶,写个不同版本功能的桌宠软件. 但需遵守 [Apache License 2.0](https://github.com/LorisYounger/VPet/blob/main/LICENSE) 与 [动画版权声明与授权](https://github.com/LorisYounger/VPet#%E5%8A%A8%E7%94%BB%E7%89%88%E6%9D%83%E5%A3%B0%E6%98%8E%E4%B8%8E%E6%8E%88%E6%9D%83)
-注: 一般来讲, 添加新功能都可以通过编写代码插件MOD实现, 详情请参见 [VPet.Plugin.Demo](https://github.com/LorisYounger/VPet.Plugin.Demo)
-
-我可能会对您的提交的代码进行修改,删减等以确保该功能/玩法适用于虚拟桌宠模拟器.
-
-
-感谢以下参与的开发人员(按贡献程度排序)
-
-* [Wreathlit](https://github.com/Wreathlit)
+請見原repo: https://github.com/LorisYounger/VPet
 
 ## 动画版权声明与授权
 
@@ -142,7 +88,7 @@
 
 ### 商用用途授权(高于10万或其他)
 
-* 请[邮件联系](mailto:zoujin.dev@exlb.org)我
+* 请[邮件联系](mailto:zoujin.dev@exlb.org)原作者
 
 ### 分发动画文件
 
