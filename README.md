@@ -1,5 +1,7 @@
 # Forked from https://github.com/LorisYounger/VPet
 
+以下內容皆複製自原repository，如有疑問，請移步[原repository](https://github.com/LorisYounger/VPet)
+
 # VPet-Simulator
 
 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序
